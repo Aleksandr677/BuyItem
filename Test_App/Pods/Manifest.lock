@@ -1,0 +1,24 @@
+PODS:
+  - Cosmos (23.0.0)
+  - iOSDropDown (0.4.0)
+  - SwiftyStepper (1.0.0)
+
+DEPENDENCIES:
+  - Cosmos (~> 23.0)
+  - iOSDropDown
+  - SwiftyStepper
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - iOSDropDown
+    - SwiftyStepper
+
+SPEC CHECKSUMS:
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  SwiftyStepper: 26abb82d80b5bb20f4d370f243c0a7a4c9ddedaf
+
+PODFILE CHECKSUM: 32af20d7b0c7f58c2e92388b49449df2ed0a33f6
+
+COCOAPODS: 1.11.3
